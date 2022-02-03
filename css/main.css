@@ -1,0 +1,64 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+    padding: 10px;
+    text-decoration: underline;
+}
+
+/* .button {
+    color: white;
+    font-size: x-large;
+    background-color: gray;
+    border: 5px solid rgb(94, 87, 87);
+    border-radius: 10px;
+    height: 100px;
+    width: 90px;
+    box-shadow: 5px 2.5px 10px 0px rgb(38, 36, 36);
+} */
+
+#minus-button {
+    color: white;
+    font-size: x-large;
+    background-color: gray;
+    border: 5px solid rgb(94, 87, 87);
+    border-radius: 10px;
+    height: 100px;
+    width: 90px;
+    box-shadow: 5px 2.5px 10px 0px rgb(38, 36, 36);
+}
+
+#plus-button {
+    color: white;
+    font-size: x-large;
+    background-color: gray;
+    border: 5px solid rgb(94, 87, 87);
+    border-radius: 10px;
+    height: 100px;
+    width: 90px;
+    box-shadow: 5px 2.5px 10px 0px rgb(38, 36, 36);
+}
+
+#input-number {
+    height: 80px;
+    width: 200px;
+    text-align: center;
+    font-size: 40px;
+    margin: 5px;
+    border: 5px solid rgb(94, 87, 87);
+    border-radius: 10px;
+    box-shadow: 5px 2.5px 10px 0px rgb(38, 36, 36);
+}
+
+#input-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.red {
+    color: rgba(240, 79, 79, 0.899)
+}
