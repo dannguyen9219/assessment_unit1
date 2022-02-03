@@ -37,12 +37,12 @@ function minusBtnClick(evt) {
 
 function plusOverBtn(evt) {
     console.log('mouse in')
-    plusBtn.style.boxShadow = '5px 5px 5px 5px red';
+    plusBtn.style.boxShadow = '5px 5px 5px 5px rgba(240, 79, 79, 1)';
 };
 
 function minusOverBtn(evt) {
     console.log('mouse in')
-    minusBtn.style.boxShadow = '5px 5px 5px 5px red';
+    minusBtn.style.boxShadow = '5px 5px 5px 5px rgba(240, 79, 79, 1)';
 };
 
 function plusOutBtn(evt) {
